@@ -1,4 +1,6 @@
-# Hey there, I'm Nikhil Gundluru! 👋
+<div align="center">
+
+  # Hey there, I'm Nikhil Gundluru! 👋
 
 I'm a passionate **Data Science Enthusiast**
 
