@@ -24,9 +24,10 @@
 
 ## 🏆 Certifications
 
-- ![Coursera](https://img.shields.io/badge/Coursera-Data%20Analysis%20with%20Python-00A300)
-- ![HackerRank](https://img.shields.io/badge/HackerRank-Python%20Programming-00A300)
-- ![Teachnook](https://img.shields.io/badge/Teachnook-Introduction%20to%20Data%20Science-00A300)
+- ![Data Visualisation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_7jcFQB73yKkWSSZjk_1719754269555_completion_certificate.pdf)
+- ![Coursera](https://www.coursera.org/account/accomplishments/certificate/5QGKT8F325U2)
+- ![HackerRank](https://www.hackerrank.com/certificates/2a933b9406aa)
+- ![Teachnook](https://drive.google.com/file/d/1xhuDKwk2gdaWQS1GjnHF4JnrnZNxlCp2/view?usp=drivesdk)
 
 ![Certification GIF](https://yourgifurl.com/certifications.gif) 
 
