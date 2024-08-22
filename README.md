@@ -2,11 +2,7 @@
 
 I'm a passionate **Data Science Enthusiast**
 
-![Banner](https://yourimageurl.com/banner.png)  <!-- Add your own banner image here -->
-
-
-
-![Working GIF](https://yourgifurl.com/working.gif)  <!-- Add a GIF that represents your work -->
+![Banner](https://img.freepik.com/premium-vector/cute-little-boy-using-laptop-computer-vector-cartoon-illustration_1142-73869.jpg?w=740)
 
 ## 🎓 Education
 
@@ -28,7 +24,7 @@ I'm a passionate **Data Science Enthusiast**
 - ![HackerRank](https://img.shields.io/badge/HackerRank-Python%20Programming-00A300)
 - ![Teachnook](https://img.shields.io/badge/Teachnook-Introduction%20to%20Data%20Science-00A300)
 
-![Certification GIF](https://yourgifurl.com/certifications.gif)  <!-- Add a GIF related to certifications -->
+![Certification GIF](https://yourgifurl.com/certifications.gif) 
 
 
 ## 📫 How to Reach Me
