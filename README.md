@@ -3,6 +3,8 @@
   # Hey there, I'm Nikhil Gundluru! 👋
 
 I'm a passionate **Data Science Enthusiast**
+</div>
+
 
 <img src="https://img.freepik.com/premium-vector/cute-little-boy-using-laptop-computer-vector-cartoon-illustration_1142-73869.jpg?w=740" alt="Banner"  height="300">
 
