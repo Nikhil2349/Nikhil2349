@@ -29,8 +29,6 @@
 - **Data Science**: [Teachnook Certificate](https://drive.google.com/file/d/1xhuDKwk2gdaWQS1GjnHF4JnrnZNxlCp2/view?usp=drivesdk)
 - **Data Analysis with Python**: [Coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/5QGKT8F325U2)
 
-![Certification GIF](https://yourgifurl.com/certifications.gif)
-
 ## 📫 How to Reach Me
 
 Explore my work and projects on my [**Portfolio Website**](https://yourportfolio.com).
