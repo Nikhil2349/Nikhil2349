@@ -38,10 +38,4 @@ Explore my work and projects on my [**Portfolio Website**](https://yourportfolio
 Feel free to reach out via email or connect with me on LinkedIn!
 
 - 📧 **Email**: [nikhilgundluru349@gmail.com](mailto:nikhilgundluru349@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nikhil-gundluru-0b2554206/)
-
-![Contact GIF](https://yourgifurl.com/contact.gif)  <!-- Add a GIF related to communication or contact -->
-
----
-
-*Feel free to customize the GIFs, images, and text to suit your personality and style!*
+-  **Linkedin**: [Connect with ME](https://www.linkedin.com/in/nikhil-gundluru-0b2554206/)
