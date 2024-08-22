@@ -30,13 +30,10 @@ I'm a passionate **Data Science Enthusiast**
 
 ![Certification GIF](https://yourgifurl.com/certifications.gif)  <!-- Add a GIF related to certifications -->
 
-## 🌐 Portfolio
-
-Explore my work and projects on my [**Portfolio Website**](https://yourportfolio.com).
-
-![Portfolio Screenshot](https://yourimageurl.com/portfolio_screenshot.png)  <!-- Add a screenshot of your portfolio -->
 
 ## 📫 How to Reach Me
+
+Explore my work and projects on my [**Portfolio Website**](https://yourportfolio.com).
 
 Feel free to reach out via email or connect with me on LinkedIn!
 
