@@ -4,7 +4,7 @@
 
 ### I'm a passionate **Data Science Enthusiast**
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3-6Kjf6plXpWODQ7dLOfvM&ust=1729689350558000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjlx8qJookDFQAAAAAdAAAAABAE" alt="Banner" height="230">
+
 
 </div>
 
